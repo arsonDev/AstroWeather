@@ -12,6 +12,7 @@ Aplikacja Pogodowa
   - Data Binding
 - Moshi
 - AstroCalculator
+- MVVM (architektura)
 
 ##Autorzy
 Arkadiusz Kowalczyk 206061
