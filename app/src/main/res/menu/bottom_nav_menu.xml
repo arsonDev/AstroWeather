@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/navigation_weather"
+        android:orderInCategory="2"
+        android:icon="@drawable/ic_weather_90px"
+        android:title="@string/weather" />
+    <item
+        android:id="@+id/navigation_phase"
+        android:orderInCategory="3"
+        android:icon="@drawable/ic_moon_64px"
+        android:title="@string/moon_phase" />
+</menu>

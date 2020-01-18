@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AstroWeather</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="your_location">Twoje lokalizacje</string>
+    <string name="moon_phase">Fazy księżyca</string>
+    <string name="weather">Pogoda</string>
+    <string name="enter_location">wprowadź lokalizację</string>
+    <string name="bb">bb</string>
+</resources>
